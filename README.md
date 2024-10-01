@@ -42,11 +42,11 @@ make
 
 
 ### **2. Run the Assembler**
-Once compiled, you can run the assembler on a sample `.as` file like this:
-./assembler file_name.as
+Once compiled, you can run the assembler on a sample `.as` file, but make sure you enter only the name of the file without the extension, like this:
+./assembler file_name
 
 For example:
-./assembler ps.as
+./assembler ps
 
 
 ---
